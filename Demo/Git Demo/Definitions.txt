@@ -1,0 +1,48 @@
+#Author - Isiri G Aradhya
+
+Create new repo on command line
+echo "# BeautifulAish" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BeautifulAish/BeautifulAish.git
+git push -u origin main
+
+Push an existing repository from command line
+git remote add origin https://github.com/BeautifulAish/BeautifulAish.git
+git branch -M main
+git push -u origin main
+
+To push git code
+1. git add .
+2. git commit -m "message"
+3. git push
+4. git pull (If something added to github.com)
+
+Steps
+Md —> Markdown
+Git changes add → commit
+<br> —> after this, lines will shift to next line
+
+Download Bash, open Bash, and git --version
+Git config in Bash—> in which account user is making changes
+git config --global user.name "AishwaryaG21" —> if user has 1 repo
+git config --global user.name "Isiri" —> if user want to changes in specific repo
+git config --global user.email "email id"
+Got config –list —> configured will display
+
+Open VS code 
+To clone git repo to vs code
+1. Copy git url
+2. A. Folder→shift + right click – open Git Bash→ → git clone AishwaryaG21/ISiri: Config files for my GitHub profile.(copied url) in folder (location). New folder will create or
+   B. Click on code in github repo click on download zip→ Open zip—extract all —> VS Code—> open folder→ or
+   C. Copy the git url —> VS code – add url – clone repo 
+3. Clone—>use to copy github  repo into local machine 
+git clone https://github.com/AishwaryaG21/ISiri.git (to add demo file here)
+3.git status -- 
+git add file name --- file added into staging area 
+git commit "msg"--- make permanant change and it will take screenshot
+git push === upload local repo content / files to remote (git) repo 
+
+
