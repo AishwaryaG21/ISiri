@@ -43,6 +43,6 @@ git clone https://github.com/AishwaryaG21/ISiri.git (to add demo file here)
 3.git status -- 
 git add file name --- file added into staging area 
 git commit "msg"--- make permanant change and it will take screenshot
-git push === upload local repo content / files to remote (git) repo 
+git push === upload local repo content / files to remote (git) repo --> git push origin main
 
 
