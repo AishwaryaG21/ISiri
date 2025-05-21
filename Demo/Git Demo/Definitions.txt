@@ -45,4 +45,7 @@ git add file name --- file added into staging area
 git commit "msg"--- make permanant change and it will take screenshot
 git push === upload local repo content / files to remote (git) repo --> git push origin main
 
+git pull uses
+git fetch downloads changes (commits, branches) from the remote repo.
+git merge integrates those changes into your current branch.
 
