@@ -1,5 +1,7 @@
 #Author - Isiri G Aradhya
 
+Git - Version control system is a tool helps to track chnages in code 
+
 Create new repo on command line
 echo "# BeautifulAish" >> README.md
 git init
@@ -42,7 +44,7 @@ To clone git repo to vs code
 git clone https://github.com/AishwaryaG21/ISiri.git (to add demo file here)
 3.git status -- 
 git add file name --- file added into staging area 
-git commit "msg"--- make permanant change and it will take screenshot
+git commit -m "msg"--- make permanant change and it will take screenshot
 git push === upload local repo content / files to remote (git) repo --> git push origin main
 
 git pull uses
